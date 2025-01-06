@@ -1,0 +1,384 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components
+vadder
+Z0 !s110 1734644637
+!i10b 1
+!s100 `U]XRHkzB2ViVKN2c9o@=2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0H9kz0z]@`K2nI9=WGW2]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/work
+Z4 w1734548372
+Z5 8C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\adder.v
+Z6 FC:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\adder.v
+!i122 6
+L0 6 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1734644637.000000
+Z9 !s107 C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\control.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\rom.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\ram.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\sl2.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\signext.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\regfile32.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\mux4.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\mux2.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\flopr_param.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\alu32.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\adder.v|C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\datapath.v|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 ]gY<PLG=LjDkAF_C<ITl=0
+R1
+IBF^f4c;SQ=[763E@h:Q[l1
+R2
+R3
+R4
+8C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\alu32.v
+FC:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\alu32.v
+!i122 6
+L0 6 29
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vControlunit
+R0
+!i10b 1
+!s100 ]FdF3FnF8zn@UT[VmG5;h2
+R1
+IfJhaC^:mJ:LC]Sa`7M;2e0
+R2
+R3
+R4
+8C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\control.v
+FC:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\control.v
+!i122 6
+L0 7 119
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@controlunit
+vDatapath
+R0
+!i10b 1
+!s100 zR54l`2:=1V[HHkgZK<4E1
+R1
+IP@MnC<M0m=hDFZ`DFlbWQ2
+R2
+R3
+R4
+8C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\datapath.v
+FC:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\datapath.v
+!i122 6
+L0 15 43
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@datapath
+vdecoder4
+R0
+!i10b 1
+!s100 k1PDc_jh3bdPICKz6AkfC2
+R1
+I;6Y8iU;f62Ag8P4KDVnPK3
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/decoder4.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/decoder4.v
+!i122 4
+L0 6 41
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/decoder4.v|
+!i113 1
+R11
+R12
+vFA
+R0
+!i10b 1
+!s100 H=jfXY22PJTHJQJ3=4<L=2
+R1
+I9JEc[jmHfnzlL2Hgm4^mE1
+R2
+R3
+R4
+R5
+R6
+!i122 6
+L0 23 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 ==fG^OPB_[hTIdMzE4P=z3
+R1
+IYFaR?X<RPiKLTb;MNoHQT1
+R2
+R3
+R4
+8C:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\flopr_param.v
+FC:\Users\USER\Documents\GitHub\MIPS-Processor-Verilog\MIPS Single Cycle Processor\Processor Components\flopr_param.v
+!i122 6
+L0 6 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vMIPS_SCP
+R0
+!i10b 1
+!s100 ^6V7AhP9zLToNX>8[EnB@3
+R1
+IccT`6L]308ne=>o0H5`k00
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP.v
+!i122 6
+L0 12 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 ;9X=hC@;<M=jLo8cPgA^92
+R1
+I06X2>3enEkPC6Xh^]KPAh1
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP_tb.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP_tb.v
+!i122 7
+L0 7 32
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/MIPS_SCP_tb.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p_tb
+vmux2
+Z13 !s110 1734644638
+!i10b 1
+!s100 cKn3GS0^`?]:SEii3GNzJ1
+R1
+I0P0QaglBb[OYUP>6nXPWe0
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux2.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux2.v
+!i122 8
+L0 6 12
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux2.v|
+!i113 1
+R11
+R12
+vmux4
+R13
+!i10b 1
+!s100 K5ZiK[1HFMeGGATIz9djP2
+R1
+Iz4^NXnO89af^mW65Wm=[:1
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux4.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux4.v
+!i122 9
+Z14 L0 6 20
+R7
+r1
+!s85 0
+31
+Z15 !s108 1734644638.000000
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/mux4.v|
+!i113 1
+R11
+R12
+vram
+R13
+!i10b 1
+!s100 9a6z;ahhJghZC1HaKYK:M2
+R1
+I@hY>YS;A4gcP;L2?lD9Y00
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/ram.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/ram.v
+!i122 10
+L0 6 24
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/ram.v|
+!i113 1
+R11
+R12
+vregisterfile32
+R13
+!i10b 1
+!s100 UPaY0dJ8W7nOe;gZ1:dgo3
+R1
+IhaO^]1TLZdm9=lj=44_Ti2
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/regfile32.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/regfile32.v
+!i122 11
+L0 6 34
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/regfile32.v|
+!i113 1
+R11
+R12
+vrom
+R13
+!i10b 1
+!s100 Bj3zCdN8i0UEU7HL_3CS^0
+R1
+I?I3o:ABjiT=a7A]2z1k@G2
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/rom.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/rom.v
+!i122 12
+R14
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/rom.v|
+!i113 1
+R11
+R12
+vsignext
+R13
+!i10b 1
+!s100 ]O6EBlmRCeeaS6VEg0jFT1
+R1
+I;AHFARR`?iWPV6JRCSiNg3
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/signext.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/signext.v
+!i122 13
+L0 6 7
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/signext.v|
+!i113 1
+R11
+R12
+vslt2
+R13
+!i10b 1
+!s100 L`WcOzOS9d8K6WWdkoel<0
+R1
+I^[Ql[n8h;gObdR@HS?50N0
+R2
+R3
+R4
+8C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/sl2.v
+FC:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/sl2.v
+!i122 14
+L0 6 6
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Documents/GitHub/MIPS-Processor-Verilog/MIPS Single Cycle Processor/Processor Components/sl2.v|
+!i113 1
+R11
+R12
